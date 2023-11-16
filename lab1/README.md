@@ -2,7 +2,14 @@
 ```sh
 python -m venv venv
 ```
-## 2.安装依赖(install requirements)
+## 2.激活虚拟环境(activate a virtual enveriment)
+
+```
+source venv/bin/activate
+```
+
+## 3.安装依赖(install requirements)
+
 ```
 pip install -r requirements.txt
 ```
