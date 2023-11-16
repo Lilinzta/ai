@@ -1,3 +1,5 @@
+# Source: https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html
+
 # 导入必要的库
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_digits
