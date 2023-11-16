@@ -13,7 +13,7 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
-## 3.运行(run)
+## 4.运行(run)
 ```
 python main.py
 ```
