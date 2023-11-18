@@ -1,8 +1,8 @@
-## 1.创建虚拟环境(create a virtual enveriment)
+## 1.创建虚拟环境(create virtual enveriment)
 ```sh
 python -m venv venv
 ```
-## 2.激活虚拟环境(activate a virtual enveriment)
+## 2.激活虚拟环境(activate virtual enveriment)
 
 ```
 source venv/bin/activate
