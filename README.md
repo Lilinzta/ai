@@ -21,8 +21,3 @@ lab1: python lab1/main.py
 lab2: python lab2/main.py
 lab3: python lab3/main.py
 ```
-## lab1: [KNN demo](https://github.com/Lilinzta/ai/blob/main/lab1/main.py)
-
-## lab2: [K-Means demo](https://github.com/Lilinzta/ai/blob/main/lab2/main.py)
-
-## lab3: [california-housing](https://github.com/Lilinzta/ai/blob/main/lab3/main.py)
