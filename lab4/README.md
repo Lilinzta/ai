@@ -10,7 +10,7 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
-## 3.run
+## 4.run
 ```
 python train_MINIST.py
 python test_MINIST.py
