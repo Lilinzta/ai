@@ -20,4 +20,8 @@ pip install -r requirements.txt
 lab1: python lab1/main.py
 lab2: python lab2/main.py
 lab3: python lab3/main.py
+lab4: cd lab4
+      python train_MINIST.py
+      python test_MINIST.py
+another_lab4: python another_lab4/main.py
 ```
